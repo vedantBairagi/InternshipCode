@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Shubman Gill,95316,1070173,ob,rhb
+1,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Sunil Narine,49039,230558,ob,lhb
+2,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Dinesh Karthik,8813,30045,ob,rhb
+3,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Nitish Rana,70411,604527,ob,lhb
+4,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Eoin Morgan,47055,24598,rm,lhb
+5,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Andre Russell,51012,276298,rf,rhb
+6,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Nikhil Naik,67458,554700,,rhb
+7,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Pat Cummins,64244,489889,rf,rhb
+8,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Shivam Mavi,96417,1079848,rfm,rhb
+9,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Kuldeep Yadav,67609,559235,lws,lhb
+10,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Sandeep Warrier,69227,592735,rm,rhb
+11,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Quinton de Kock,58406,379143,,lhb
+12,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Rohit Sharma,48405,34102,ob,rhb
+13,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Suryakumar Yadav,61990,446507,rm/ob,rhb
+14,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Saurabh Tiwary,15317,35390,,lhb
+15,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Hardik Pandya,70633,625371,rmf,rhb
+16,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Kieron Pollard,49040,230559,rm,rhb
+17,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Krunal Pandya,63224,471342,sla,lhb
+18,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,James Pattinson,50781,272465,rfm,lhb
+19,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Rahul Chahar,95219,1064812,lbg,rhb
+20,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Trent Boult,51092,277912,lfm,rhb
+21,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Jasprit Bumrah,70640,625383,rf,rhb

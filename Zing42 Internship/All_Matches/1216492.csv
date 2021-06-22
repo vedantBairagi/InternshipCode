@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Rohit Sharma,48405,34102,ob,rhb
+1,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Quinton de Kock,58406,379143,,lhb
+2,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Suryakumar Yadav,61990,446507,rm/ob,rhb
+3,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Saurabh Tiwary,15317,35390,,lhb
+4,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Hardik Pandya,70633,625371,rmf,rhb
+5,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Kieron Pollard,49040,230559,rm,rhb
+6,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Krunal Pandya,63224,471342,sla,lhb
+7,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,James Pattinson,50781,272465,rfm,lhb
+8,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Rahul Chahar,95219,1064812,lbg,rhb
+9,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Trent Boult,51092,277912,lfm,rhb
+10,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Jasprit Bumrah,70640,625383,rf,rhb
+11,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Murali Vijay,49342,237095,ob,rhb
+12,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Shane Watson,10125,8180,rfm,rhb
+13,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Faf du Plessis,46933,44828,lb,rhb
+14,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Ambati Rayudu,8999,33141,ob,rhb
+15,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Ravindra Jadeja,49247,234675,sla,lhb
+16,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Sam Curran,72103,662973,lmf,lhb
+17,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,MS Dhoni,7593,28081,rm,rhb
+18,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Kedar Jadhav,51482,290716,ob,rhb
+19,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Piyush Chawla,47185,32966,lb,lhb
+20,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Deepak Chahar,62022,447261,rm,rhb
+21,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Lungi Ngidi,66941,542023,rfm,rhb

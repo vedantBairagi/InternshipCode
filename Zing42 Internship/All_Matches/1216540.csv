@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Aaron Finch,35812,5334,sla,rhb
+1,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Devdutt Padikkal,100878,1119026,ob,lhb
+2,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Virat Kohli,49752,253802,rm,rhb
+3,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,AB de Villiers,46533,44936,rm,rhb
+4,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Chris Morris,61832,439952,rfm,rhb
+5,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Washington Sundar,75311,719715,ob,lhb
+6,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Shivam Dube,74975,714451,rm,lhb
+7,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Isuru Udana,54460,328026,lmf,rhb
+8,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Navdeep Saini,74633,700167,rf,rhb
+9,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Yuzvendra Chahal,61325,430246,lbg,rhb
+10,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Mohammed Siraj,87477,940973,rmf,rhb
+11,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Tom Banton,82071,877051,,rhb
+12,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Shubman Gill,95316,1070173,ob,rhb
+13,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Nitish Rana,70411,604527,ob,lhb
+14,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Eoin Morgan,47055,24598,rm,lhb
+15,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Dinesh Karthik,8813,30045,ob,rhb
+16,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Andre Russell,51012,276298,rf,rhb
+17,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Rahul Tripathi,61999,446763,rm,rhb
+18,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Pat Cummins,64244,489889,rf,rhb
+19,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Kamlesh Nagarkoti,95323,1070188,rf,rhb
+20,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Varun Chakravarthy,98673,1108375,lbg,rhb
+21,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Prasidh Krishna,84635,917159,rmf,rhb

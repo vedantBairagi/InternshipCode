@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Murali Vijay,49342,237095,ob,rhb
+1,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Shane Watson,10125,8180,rfm,rhb
+2,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Faf du Plessis,46933,44828,lb,rhb
+3,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Ruturaj Gaikwad,95094,1060380,ob,rhb
+4,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Kedar Jadhav,51482,290716,ob,rhb
+5,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,MS Dhoni,7593,28081,rm,rhb
+6,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Ravindra Jadeja,49247,234675,sla,lhb
+7,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Sam Curran,72103,662973,lmf,lhb
+8,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Piyush Chawla,47185,32966,lb,lhb
+9,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Deepak Chahar,62022,447261,rm,rhb
+10,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Josh Hazlewood,51367,288284,rfm,lhb
+11,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Prithvi Shaw,95315,1070168,ob,rhb
+12,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Shikhar Dhawan,15887,28235,ob,lhb
+13,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Rishabh Pant,86165,931581,,lhb
+14,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Shreyas Iyer,71331,642519,lbg,rhb
+15,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Marcus Stoinis,54212,325012,rm,rhb
+16,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Shimron Hetmyer,72393,670025,,lhb
+17,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Axar Patel,67455,554691,sla,lhb
+18,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Amit Mishra,12562,31107,lb,rhb
+19,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Kagiso Rabada,67296,550215,rf,lhb
+20,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Anrich Nortje,63651,481979,rf,rhb
+21,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Avesh Khan,73507,694211,rfm,rhb

@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Devdutt Padikkal,100878,1119026,ob,lhb
+1,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Aaron Finch,35812,5334,sla,rhb
+2,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Virat Kohli,49752,253802,rm,rhb
+3,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,AB de Villiers,46533,44936,rm,rhb
+4,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Shivam Dube,74975,714451,rm,lhb
+5,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Gurkeerat Singh Mann,66725,537124,ob,rhb
+6,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Washington Sundar,75311,719715,ob,lhb
+7,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Isuru Udana,54460,328026,lmf,rhb
+8,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Navdeep Saini,74633,700167,rf,rhb
+9,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Yuzvendra Chahal,61325,430246,lbg,rhb
+10,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Adam Zampa,58435,379504,lbg,rhb
+11,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Jos Buttler,53271,308967,,rhb
+12,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Steven Smith,50281,267192,lbg,rhb
+13,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Sanju Samson,60806,425943,,rhb
+14,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Robin Uthappa,8742,35582,rm,rhb
+15,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Mahipal Lomror,81197,853265,sla,lhb
+16,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Riyan Parag,96392,1079434,lb,rhb
+17,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Rahul Tewatia,60628,423838,lb,lhb
+18,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Jofra Archer,72379,669855,rf,rhb
+19,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Tom Curran,67312,550235,rfm,rhb
+20,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Shreyas Gopal,56596,344580,lb,rhb
+21,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Jaydev Unadkat,59261,390484,lm,rhb

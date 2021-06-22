@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,KL Rahul,60530,422108,,rhb
+1,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Mayank Agarwal,59599,398438,ob,rhb
+2,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Mandeep Singh,59601,398506,rm,rhb
+3,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Nicholas Pooran,70405,604302,,lhb
+4,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Glenn Maxwell,54222,325026,ob,rhb
+5,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Sarfaraz Khan,71335,642525,lb,rhb
+6,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Chris Jordan,51421,288992,rfm,rhb
+7,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Harpreet Brar,104281,1168641,sla,lhb
+8,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Ravi Bishnoi,104770,1175441,lbg,rhb
+9,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Mohammed Shami,63646,481896,rf,rhb
+10,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Sheldon Cottrell,64443,495551,lfm,rhb
+11,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Shane Watson,10125,8180,rfm,rhb
+12,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Faf du Plessis,46933,44828,lb,rhb
+13,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Ambati Rayudu,8999,33141,ob,rhb
+14,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Kedar Jadhav,51482,290716,ob,rhb
+15,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,MS Dhoni,7593,28081,rm,rhb
+16,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Ravindra Jadeja,49247,234675,sla,lhb
+17,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Sam Curran,72103,662973,lmf,lhb
+18,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Dwayne Bravo,45257,51439,rm,rhb
+19,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Piyush Chawla,47185,32966,lb,lhb
+20,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Shardul Thakur,63477,475281,rm,rhb
+21,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Deepak Chahar,62022,447261,rm,rhb

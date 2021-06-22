@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Devdutt Padikkal,100878,1119026,ob,lhb
+1,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Aaron Finch,35812,5334,sla,rhb
+2,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Virat Kohli,49752,253802,rm,rhb
+3,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,AB de Villiers,46533,44936,rm,rhb
+4,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Shivam Dube,74975,714451,rm,lhb
+5,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Gurkeerat Singh Mann,66725,537124,ob,rhb
+6,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Washington Sundar,75311,719715,ob,lhb
+7,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Isuru Udana,54460,328026,lmf,rhb
+8,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Navdeep Saini,74633,700167,rf,rhb
+9,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Yuzvendra Chahal,61325,430246,lbg,rhb
+10,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Adam Zampa,58435,379504,lbg,rhb
+11,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Rohit Sharma,48405,34102,ob,rhb
+12,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Quinton de Kock,58406,379143,,lhb
+13,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Suryakumar Yadav,61990,446507,rm/ob,rhb
+14,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Ishan Kishan,75325,720471,,lhb
+15,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Hardik Pandya,70633,625371,rmf,rhb
+16,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Kieron Pollard,49040,230559,rm,rhb
+17,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Krunal Pandya,63224,471342,sla,lhb
+18,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,James Pattinson,50781,272465,rfm,lhb
+19,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Rahul Chahar,95219,1064812,lbg,rhb
+20,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Trent Boult,51092,277912,lfm,rhb
+21,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Jasprit Bumrah,70640,625383,rf,rhb

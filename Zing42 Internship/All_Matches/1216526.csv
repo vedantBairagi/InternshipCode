@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Rohit Sharma,48405,34102,ob,rhb
+1,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Quinton de Kock,58406,379143,,lhb
+2,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Suryakumar Yadav,61990,446507,rm/ob,rhb
+3,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Hardik Pandya,70633,625371,rmf,rhb
+4,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Ishan Kishan,75325,720471,,lhb
+5,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Kieron Pollard,49040,230559,rm,rhb
+6,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Krunal Pandya,63224,471342,sla,lhb
+7,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Rahul Chahar,95219,1064812,lbg,rhb
+8,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Trent Boult,51092,277912,lfm,rhb
+9,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Jasprit Bumrah,70640,625383,rf,rhb
+10,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Nathan Coulter-Nile,49958,261354,rf,rhb
+11,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Rahul Tripathi,61999,446763,rm,rhb
+12,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Shubman Gill,95316,1070173,ob,rhb
+13,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Nitish Rana,70411,604527,ob,lhb
+14,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Dinesh Karthik,8813,30045,ob,rhb
+15,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Eoin Morgan,47055,24598,rm,lhb
+16,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Andre Russell,51012,276298,rf,rhb
+17,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Pat Cummins,64244,489889,rf,rhb
+18,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Chris Green,78281,787073,ob,rhb
+19,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Prasidh Krishna,84635,917159,rmf,rhb
+20,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Shivam Mavi,96417,1079848,rfm,rhb
+21,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Varun Chakravarthy,98673,1108375,lbg,rhb

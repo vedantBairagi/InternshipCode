@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Ruturaj Gaikwad,95094,1060380,ob,rhb
+1,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Faf du Plessis,46933,44828,lb,rhb
+2,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Ambati Rayudu,8999,33141,ob,rhb
+3,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Narayan Jagadeesan,94125,1048813,,rhb
+4,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,MS Dhoni,7593,28081,rm,rhb
+5,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Ravindra Jadeja,49247,234675,sla,lhb
+6,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Sam Curran,72103,662973,lmf,lhb
+7,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Deepak Chahar,62022,447261,rm,rhb
+8,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Shardul Thakur,63477,475281,rm,rhb
+9,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Imran Tahir,19422,40618,lbg,rhb
+10,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Josh Hazlewood,51367,288284,rfm,lhb
+11,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Quinton de Kock,58406,379143,,lhb
+12,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Ishan Kishan,75325,720471,,lhb
+13,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Suryakumar Yadav,61990,446507,rm/ob,rhb
+14,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Saurabh Tiwary,15317,35390,,lhb
+15,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Krunal Pandya,63224,471342,sla,lhb
+16,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Hardik Pandya,70633,625371,rmf,rhb
+17,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Kieron Pollard,49040,230559,rm,rhb
+18,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Nathan Coulter-Nile,49958,261354,rf,rhb
+19,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Rahul Chahar,95219,1064812,lbg,rhb
+20,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Trent Boult,51092,277912,lfm,rhb
+21,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Jasprit Bumrah,70640,625383,rf,rhb

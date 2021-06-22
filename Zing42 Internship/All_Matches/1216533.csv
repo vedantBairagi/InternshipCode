@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Sam Curran,72103,662973,lmf,lhb
+1,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Faf du Plessis,46933,44828,lb,rhb
+2,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Shane Watson,10125,8180,rfm,rhb
+3,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Ambati Rayudu,8999,33141,ob,rhb
+4,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,MS Dhoni,7593,28081,rm,rhb
+5,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Ravindra Jadeja,49247,234675,sla,lhb
+6,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Kedar Jadhav,51482,290716,ob,rhb
+7,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Piyush Chawla,47185,32966,lb,lhb
+8,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Deepak Chahar,62022,447261,rm,rhb
+9,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Shardul Thakur,63477,475281,rm,rhb
+10,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Josh Hazlewood,51367,288284,rfm,lhb
+11,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Ben Stokes,53320,311158,rfm,lhb
+12,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Robin Uthappa,8742,35582,rm,rhb
+13,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Sanju Samson,60806,425943,,rhb
+14,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Steven Smith,50281,267192,lbg,rhb
+15,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Jos Buttler,53271,308967,,rhb
+16,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Rahul Tewatia,60628,423838,lb,lhb
+17,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Riyan Parag,96392,1079434,lb,rhb
+18,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Jofra Archer,72379,669855,rf,rhb
+19,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Shreyas Gopal,56596,344580,lb,rhb
+20,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Ankit Rajpoot,69114,591650,rm,rhb
+21,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Kartik Tyagi,101306,1122918,rmf,rhb

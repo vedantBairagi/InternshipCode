@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,KL Rahul,60530,422108,,rhb
+1,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Mayank Agarwal,59599,398438,ob,rhb
+2,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Chris Gayle,7568,51880,ob,lhb
+3,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Nicholas Pooran,70405,604302,,lhb
+4,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Glenn Maxwell,54222,325026,ob,rhb
+5,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Deepak Hooda,64479,497121,ob,rhb
+6,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,James Neesham,57196,355269,rmf,lhb
+7,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Murugan Ashwin,66116,528067,lbg,rhb
+8,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Ravi Bishnoi,104770,1175441,lbg,rhb
+9,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Mohammed Shami,63646,481896,rf,rhb
+10,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Arshdeep Singh,101430,1125976,lmf,lhb
+11,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Prithvi Shaw,95315,1070168,ob,rhb
+12,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Shikhar Dhawan,15887,28235,ob,lhb
+13,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Shreyas Iyer,71331,642519,lbg,rhb
+14,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Rishabh Pant,86165,931581,,lhb
+15,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Marcus Stoinis,54212,325012,rm,rhb
+16,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Shimron Hetmyer,72393,670025,,lhb
+17,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Axar Patel,67455,554691,sla,lhb
+18,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Ravichandran Ashwin,12894,26421,ob,rhb
+19,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Kagiso Rabada,67296,550215,rf,lhb
+20,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Daniel Sams,80807,826901,lfm,rhb
+21,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Tushar Deshpande,80607,822553,rm,lhb

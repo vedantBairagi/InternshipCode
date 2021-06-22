@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Robin Uthappa,8742,35582,rm,rhb
+1,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Ben Stokes,53320,311158,rfm,lhb
+2,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Steven Smith,50281,267192,lbg,rhb
+3,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Sanju Samson,60806,425943,,rhb
+4,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Jos Buttler,53271,308967,,rhb
+5,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Riyan Parag,96392,1079434,lb,rhb
+6,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Rahul Tewatia,60628,423838,lb,lhb
+7,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Jofra Archer,72379,669855,rf,rhb
+8,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Shreyas Gopal,56596,344580,lb,rhb
+9,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Ankit Rajpoot,69114,591650,rm,rhb
+10,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Kartik Tyagi,101306,1122918,rmf,rhb
+11,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Ishan Kishan,75325,720471,,lhb
+12,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Quinton de Kock,58406,379143,,lhb
+13,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Suryakumar Yadav,61990,446507,rm/ob,rhb
+14,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Saurabh Tiwary,15317,35390,,lhb
+15,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Kieron Pollard,49040,230559,rm,rhb
+16,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Hardik Pandya,70633,625371,rmf,rhb
+17,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Krunal Pandya,63224,471342,sla,lhb
+18,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,James Pattinson,50781,272465,rfm,lhb
+19,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Rahul Chahar,95219,1064812,lbg,rhb
+20,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Trent Boult,51092,277912,lfm,rhb
+21,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Jasprit Bumrah,70640,625383,rf,rhb

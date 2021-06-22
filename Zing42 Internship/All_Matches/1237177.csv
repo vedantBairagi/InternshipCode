@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Prithvi Shaw,95315,1070168,ob,rhb
+1,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Shikhar Dhawan,15887,28235,ob,lhb
+2,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Ajinkya Rahane,51096,277916,rm,rhb
+3,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Shreyas Iyer,71331,642519,lbg,rhb
+4,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Marcus Stoinis,54212,325012,rm,rhb
+5,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Rishabh Pant,86165,931581,,lhb
+6,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Axar Patel,67455,554691,sla,lhb
+7,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Daniel Sams,80807,826901,lfm,rhb
+8,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Kagiso Rabada,67296,550215,rf,lhb
+9,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Anrich Nortje,63651,481979,rf,rhb
+10,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Ravichandran Ashwin,12894,26421,ob,rhb
+11,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Quinton de Kock,58406,379143,,lhb
+12,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Rohit Sharma,48405,34102,ob,rhb
+13,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Suryakumar Yadav,61990,446507,rm/ob,rhb
+14,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Ishan Kishan,75325,720471,,lhb
+15,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Kieron Pollard,49040,230559,rm,rhb
+16,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Krunal Pandya,63224,471342,sla,lhb
+17,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Hardik Pandya,70633,625371,rmf,rhb
+18,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Nathan Coulter-Nile,49958,261354,rf,rhb
+19,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Trent Boult,51092,277912,lfm,rhb
+20,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Rahul Chahar,95219,1064812,lbg,rhb
+21,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Jasprit Bumrah,70640,625383,rf,rhb

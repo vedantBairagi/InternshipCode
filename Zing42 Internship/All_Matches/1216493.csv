@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Prithvi Shaw,95315,1070168,ob,rhb
+1,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Shikhar Dhawan,15887,28235,ob,lhb
+2,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Shimron Hetmyer,72393,670025,,lhb
+3,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Shreyas Iyer,71331,642519,lbg,rhb
+4,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Rishabh Pant,86165,931581,,lhb
+5,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Marcus Stoinis,54212,325012,rm,rhb
+6,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Axar Patel,67455,554691,sla,lhb
+7,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Ravichandran Ashwin,12894,26421,ob,rhb
+8,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Kagiso Rabada,67296,550215,rf,lhb
+9,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Anrich Nortje,63651,481979,rf,rhb
+10,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Mohit Sharma,66722,537119,rm,rhb
+11,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,KL Rahul,60530,422108,,rhb
+12,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Mayank Agarwal,59599,398438,ob,rhb
+13,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Karun Nair,59600,398439,ob,rhb
+14,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Nicholas Pooran,70405,604302,,lhb
+15,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Glenn Maxwell,54222,325026,ob,rhb
+16,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Sarfaraz Khan,71335,642525,lb,rhb
+17,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Krishnappa Gowtham,60737,424377,ob,rhb
+18,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Chris Jordan,51421,288992,rfm,rhb
+19,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Mohammed Shami,63646,481896,rf,rhb
+20,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Sheldon Cottrell,64443,495551,lfm,rhb
+21,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Ravi Bishnoi,104770,1175441,lbg,rhb

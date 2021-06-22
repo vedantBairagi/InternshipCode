@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Quinton de Kock,58406,379143,,lhb
+1,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Ishan Kishan,75325,720471,,lhb
+2,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Suryakumar Yadav,61990,446507,rm/ob,rhb
+3,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Saurabh Tiwary,15317,35390,,lhb
+4,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Krunal Pandya,63224,471342,sla,lhb
+5,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Hardik Pandya,70633,625371,rmf,rhb
+6,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Kieron Pollard,49040,230559,rm,rhb
+7,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,James Pattinson,50781,272465,rfm,lhb
+8,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Rahul Chahar,95219,1064812,lbg,rhb
+9,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Trent Boult,51092,277912,lfm,rhb
+10,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Jasprit Bumrah,70640,625383,rf,rhb
+11,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Josh Philippe,101339,1124282,,rhb
+12,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Devdutt Padikkal,100878,1119026,ob,lhb
+13,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Virat Kohli,49752,253802,rm,rhb
+14,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,AB de Villiers,46533,44936,rm,rhb
+15,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Shivam Dube,74975,714451,rm,lhb
+16,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Chris Morris,61832,439952,rfm,rhb
+17,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Gurkeerat Singh Mann,66725,537124,ob,rhb
+18,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Washington Sundar,75311,719715,ob,lhb
+19,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Yuzvendra Chahal,61325,430246,lbg,rhb
+20,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Mohammed Siraj,87477,940973,rmf,rhb
+21,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Dale Steyn,47154,47492,rf,rhb

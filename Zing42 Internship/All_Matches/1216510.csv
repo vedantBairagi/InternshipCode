@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,KL Rahul,60530,422108,,rhb
+1,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Mayank Agarwal,59599,398438,ob,rhb
+2,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Nicholas Pooran,70405,604302,,lhb
+3,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Glenn Maxwell,54222,325026,ob,rhb
+4,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Karun Nair,59600,398439,ob,rhb
+5,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,James Neesham,57196,355269,rmf,lhb
+6,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Sarfaraz Khan,71335,642525,lb,rhb
+7,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Mohammed Shami,63646,481896,rf,rhb
+8,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Sheldon Cottrell,64443,495551,lfm,rhb
+9,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Ravi Bishnoi,104770,1175441,lbg,rhb
+10,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Murugan Ashwin,66116,528067,lbg,rhb
+11,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Devdutt Padikkal,100878,1119026,ob,lhb
+12,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Aaron Finch,35812,5334,sla,rhb
+13,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Josh Philippe,101339,1124282,,rhb
+14,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Virat Kohli,49752,253802,rm,rhb
+15,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,AB de Villiers,46533,44936,rm,rhb
+16,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Washington Sundar,75311,719715,ob,lhb
+17,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Shivam Dube,74975,714451,rm,lhb
+18,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Umesh Yadav,58274,376116,rf,rhb
+19,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Navdeep Saini,74633,700167,rf,rhb
+20,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Dale Steyn,47154,47492,rf,rhb
+21,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Yuzvendra Chahal,61325,430246,lbg,rhb

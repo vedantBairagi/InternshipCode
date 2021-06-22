@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Yashasvi Jaiswal,102743,1151278,lb,lhb
+1,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Steven Smith,50281,267192,lbg,rhb
+2,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Sanju Samson,60806,425943,,rhb
+3,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,David Miller,53891,321777,ob,lhb
+4,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Robin Uthappa,8742,35582,rm,rhb
+5,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Rahul Tewatia,60628,423838,lb,lhb
+6,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Riyan Parag,96392,1079434,lb,rhb
+7,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Tom Curran,67312,550235,rfm,rhb
+8,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Jofra Archer,72379,669855,rf,rhb
+9,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Shreyas Gopal,56596,344580,lb,rhb
+10,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Jaydev Unadkat,59261,390484,lm,rhb
+11,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Murali Vijay,49342,237095,ob,rhb
+12,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Shane Watson,10125,8180,rfm,rhb
+13,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Faf du Plessis,46933,44828,lb,rhb
+14,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Sam Curran,72103,662973,lmf,lhb
+15,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Ruturaj Gaikwad,95094,1060380,ob,rhb
+16,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Kedar Jadhav,51482,290716,ob,rhb
+17,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,MS Dhoni,7593,28081,rm,rhb
+18,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Ravindra Jadeja,49247,234675,sla,lhb
+19,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Piyush Chawla,47185,32966,lb,lhb
+20,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Deepak Chahar,62022,447261,rm,rhb
+21,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Lungi Ngidi,66941,542023,rfm,rhb

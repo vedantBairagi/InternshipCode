@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Rahul Tripathi,61999,446763,rm,rhb
+1,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Shubman Gill,95316,1070173,ob,rhb
+2,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Nitish Rana,70411,604527,ob,lhb
+3,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Sunil Narine,49039,230558,ob,lhb
+4,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Eoin Morgan,47055,24598,rm,lhb
+5,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Andre Russell,51012,276298,rf,rhb
+6,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Dinesh Karthik,8813,30045,ob,rhb
+7,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Pat Cummins,64244,489889,rf,rhb
+8,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Kamlesh Nagarkoti,95323,1070188,rf,rhb
+9,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Shivam Mavi,96417,1079848,rfm,rhb
+10,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Varun Chakravarthy,98673,1108375,lbg,rhb
+11,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Shane Watson,10125,8180,rfm,rhb
+12,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Faf du Plessis,46933,44828,lb,rhb
+13,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Ambati Rayudu,8999,33141,ob,rhb
+14,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,MS Dhoni,7593,28081,rm,rhb
+15,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Sam Curran,72103,662973,lmf,lhb
+16,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Kedar Jadhav,51482,290716,ob,rhb
+17,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Ravindra Jadeja,49247,234675,sla,lhb
+18,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Dwayne Bravo,45257,51439,rm,rhb
+19,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Shardul Thakur,63477,475281,rm,rhb
+20,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Deepak Chahar,62022,447261,rm,rhb
+21,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Karn Sharma,15731,30288,lbg,lhb

@@ -1,0 +1,23 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Devdutt Padikkal,100878,1119026,ob,lhb
+1,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Aaron Finch,35812,5334,sla,rhb
+2,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Virat Kohli,49752,253802,rm,rhb
+3,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,AB de Villiers,46533,44936,rm,rhb
+4,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Moeen Ali,46597,8917,ob,lhb
+5,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Chris Morris,61832,439952,rfm,rhb
+6,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Gurkeerat Singh Mann,66725,537124,ob,rhb
+7,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Washington Sundar,75311,719715,ob,lhb
+8,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Navdeep Saini,74633,700167,rf,rhb
+9,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Yuzvendra Chahal,61325,430246,lbg,rhb
+10,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Mohammed Siraj,87477,940973,rmf,rhb
+11,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Ruturaj Gaikwad,95094,1060380,ob,rhb
+12,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Faf du Plessis,46933,44828,lb,rhb
+13,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Ambati Rayudu,8999,33141,ob,rhb
+14,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,MS Dhoni,7593,28081,rm,rhb
+15,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Narayan Jagadeesan,94125,1048813,,rhb
+16,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Ravindra Jadeja,49247,234675,sla,lhb
+17,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Sam Curran,72103,662973,lmf,lhb
+18,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Mitchell Santner,64864,502714,sla,lhb
+19,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Deepak Chahar,62022,447261,rm,rhb
+20,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Imran Tahir,19422,40618,lbg,rhb
+21,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Monu Kumar,73505,694209,rm,rhb
